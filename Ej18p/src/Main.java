@@ -2,12 +2,11 @@
 //traspuesta de la matriz. La matriz traspuesta de una matriz A se denota por B y se obtiene
 //cambiando sus filas por columnas (o viceversa).
 
-import java.util.Scanner;
+
 import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner read = new Scanner(System.in);
 
         int [][] matrix = new int[4][4];
 
