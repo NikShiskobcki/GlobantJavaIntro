@@ -37,7 +37,6 @@ public class Main {
     }
 
     public static void printMatrix(int [][] matrix){
-        Random random = new Random();
         int i, j;
 
         for (i=0; i<3;i++){
