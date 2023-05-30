@@ -20,10 +20,9 @@ public class Main {
         };
         int[][] matrixP = {{36, 5, 67}, {89, 90, 75}, {14, 22, 26}};
 
-        int i, j, iAux, jAux, f, c;
+        int iAux, jAux, f, c;
         boolean flag = false;
-        i=0;
-        j=0;
+        int i, j = 0;
 
         for (i = 0; i < 10; i++) {
             for (j = 0; j < 10; j++) {
